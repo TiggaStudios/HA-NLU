@@ -1,0 +1,7 @@
+*.tar.gz
+*.ipynb
+*.log
+*.bin
+*.bk
+*.swp
+*.pyc

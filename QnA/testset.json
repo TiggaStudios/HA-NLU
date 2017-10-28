@@ -1,0 +1,114 @@
+[
+{
+    "text": "What is the purpose of helloAlex?",
+    "intent": "0"
+},
+{
+    "text": "How should I use helloalex?",
+    "intent": "0"
+},
+{
+    "text": "are you a bot?",
+    "intent": "1"
+},
+{
+    "text": "are you a human?",
+    "intent": "2"
+},
+{
+    "text": "do you know how to get to new york",
+    "intent": "-1"
+},
+{
+    "text": "are you somehow related to facebook?",
+    "intent": "3"
+},
+{
+    "text": "how much does the service cost",
+    "intent": "7"
+},
+{
+    "text": "how much should I pay for the service",
+    "intent": "7"
+},
+{
+    "text": "Can you show me a demo",
+    "intent": "13"
+},
+{
+    "text": "do you have a demonstration video",
+    "intent": "13"
+},
+{
+    "text": "can I use helloAlex as a mortgage broker",
+    "intent": "15"
+},
+{
+    "text": "I am a broker, can I use it",
+    "intent": "15"
+},
+{
+    "text": "Is it for free",
+    "intent": "17"
+},
+{
+    "text": "the service is free of charge?",
+    "intent": "17"
+},
+{
+    "text": "Can I change your name",
+    "intent": "9"
+},
+{
+    "text": "Can you make calls? ",
+    "intent": "10"
+},
+{
+    "text": "Do you have a demo video? ",
+    "intent": "13"
+},
+{
+    "text": "How should I use the coupon code? ",
+    "intent": "18"
+},
+{
+    "text": "How to signup?",
+    "intent": "20"
+},
+{
+    "text": "How to leave?",
+    "intent": "20"
+},
+{
+    "text": "stop bothering me",
+    "intent": "20"
+},
+{
+    "text": "Do you work with big Purple Dot",
+    "intent": "26_9"
+},
+{
+    "text": "Do you work with siera Int",
+    "intent": "26_78"
+},
+{
+    "text": "do you work with plan plus",
+    "intent": "26_50"
+},
+{
+    "text": "do you know the weather tomorrow?",
+    "intent": "-1"
+},
+{
+    "text": "I wanna sell my washing machine, do you wanna buy?",
+    "intent": "-1"
+},
+{
+    "text": "do I need an umbrella tomorrow?",
+    "intent": "-1"
+},
+{
+    "text": "is it cold outside?",
+    "intent": "-1"
+}
+]

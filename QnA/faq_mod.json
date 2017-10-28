@@ -1,0 +1,107 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": 
+    [
+  {
+    "text": ["What is helloAlex?", "What does helloAlex do?", "How does helloAlex work?", "what is your purpose?", "how you can help me?", "how should i use it?"] ,
+    "intent": "0"
+  },
+  {
+    "text": ["Is helloAlex a Chatbot?","Is helloAlex a AI?","Does helloAlex have a Robot?", "are you a bot?"],
+    "intent": "1"
+  },
+  {
+    "text": ["Is helloAlex a human?","Does helloAlex have humans for live chat?","are you alive?", "are you a man", "are you mankind?"],
+    "intent": "2"
+  },
+  {
+    "text": ["Does helloAlex work on Facebook Messenger?", "do you work on fb?"],
+    "intent": "3"
+  },
+  {
+    "text": ["What language does helloAlex work in?","do you understand English?", "do you support English"],
+    "intent": "4"
+  },
+  {
+    "text": ["Can I use helloAlex for multiple agents?","do you support multiple agents?","what about several agents?"],
+    "intent": "6"
+  },
+  {
+    "text": ["What is the price of helloAlex?", "how much it costs?", "Is there a Free plan?","it for free?", "no money to pay for this"],
+    "intent": "7"
+  },
+  {
+    "text": ["How do the Add-ons work? ", "How can I use plugins?", "Do you support plugins?"],
+    "intent": "8"
+  },
+  {
+    "text": ["Can I customize helloAlex? ","Can I change the name of Alex?","are you customizable"],
+    "intent": "9"
+  },
+  {
+    "text": ["Do you place outbound phone calls? ","do you use my phone to make calls", "do not make calls"],
+    "intent": "10"
+  },
+  {
+    "text": ["Can you call my leads using my script? ", "I have a script can I reach my leads with it?"],
+    "intent": "11"
+  },
+  {
+    "text": ["How long does it take to setup helloAlex?", "is it complicated to use?","how can I adjust helloalex to my needs?"],
+    "intent": "12"
+  },
+  {
+    "text": ["Can I get a demo of helloAlex? ","Can I schedule a demo?", "How do I schedule a demo?", "Is there a demo video?", "Show me the demo", "Do you have a demonstration"],
+    "intent": "13"
+  },
+  {
+    "text": ["Can I recruit agents with helloAlex?","Can you help me to find agents", "I need more agents"],
+    "intent": "14"
+  },
+  {
+    "text": ["I am a mortgage broker can I use helloAlex?", "can I use you as a mortgage broker", "are you OK with mortgage brokers?"],
+    "intent": "15"
+  },
+  {
+    "text": ["Does helloAlex offer co-marketing?", "do you support co-marketing?", "what about co-marketing?"],
+    "intent": "16"
+  },
+  {
+    "text": ["How do I use this coupon code? ","Do you offer a coupon code?", "do you support coupons"],
+    "intent": "18"
+  },
+  {
+    "text": ["Can I call you?","I need to call you", "Can we have a phone talk?"],
+    "intent": "19"
+  },
+  {
+    "text": ["How do I signup?", "I need to quit", "Please leave me alone"],
+    "intent": "20"
+  },
+  {
+    "text": ["Does helloAlex offer Robotic Process Automation RPA?", "do you support rpa?"],
+    "intent": "21"
+  },
+  {
+    "text": ["Does helloAlex offer Directmail", "do you support postcards", "I need a postcard"],
+    "intent": "22"
+  },
+  {
+    "text": ["Does helloAlex offer list rental?", "Do you have a list of rental?", "How can I access the list of rental"],
+    "intent": "23"
+  },
+  {
+    "text": ["Does helloAlex help me recruit real estate agents?", "Can you find me real estate agents?"],
+    "intent": "24"
+  },
+  {
+    "text": ["Does it work with my system? ","Can I use it on my computer?"],
+    "intent": "25"
+  },
+  {
+    "text": ["Does it work with","Does it operate with", "do you support"],
+    "intent": "26"
+  }
+]
+  }
+}

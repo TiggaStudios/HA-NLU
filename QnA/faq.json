@@ -1,0 +1,532 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": 
+    [
+  {
+    "text": "What is helloAlex?",
+    "intent": "no_0"
+  },
+  {
+    "text": "What does helloAlex do?",
+    "intent": "no_1"
+  },
+  {
+    "text": "Is helloAlex a Chatbot?",
+    "intent": "no_2"
+  },
+  {
+    "text": "Is helloAlex a human?",
+    "intent": "no_3"
+  },
+  {
+    "text": "Is helloAlex a AI?",
+    "intent": "no_4"
+  },
+  {
+    "text": "Does helloAlex have a Robot?",
+    "intent": "no_5"
+  },
+  {
+    "text": "Does helloAlex work on Facebook Messenger?",
+    "intent": "no_6"
+  },
+  {
+    "text": "Does helloAlex have humans for live chat? ",
+    "intent": "no_7"
+  },
+  {
+    "text": "How does helloAlex work?",
+    "intent": "no_8"
+  },
+  {
+    "text": "What language does helloAlex work in?",
+    "intent": "no_9"
+  },
+  {
+    "text": "What can I ask the helloAlex Chatbot Ai Assistant?",
+    "intent": "no_10"
+  },
+  {
+    "text": "Can I use helloAlex for multiple agents?",
+    "intent": "no_11"
+  },
+  {
+    "text": "What is the price of helloAlex?",
+    "intent": "no_12"
+  },
+  {
+    "text": "How do the Add-ons work? ",
+    "intent": "no_13"
+  },
+  {
+    "text": "Can I customize helloAlex? ",
+    "intent": "no_14"
+  },
+  {
+    "text": "Can I change the name of Alex? ",
+    "intent": "no_15"
+  },
+  {
+    "text": "Do you place outbound phone calls? ",
+    "intent": "no_16"
+  },
+  {
+    "text": "Can you call my leads using my script? ",
+    "intent": "no_17"
+  },
+  {
+    "text": "How long does it take to setup helloAlex?",
+    "intent": "no_18"
+  },
+  {
+    "text": "Can I get a demo of helloAlex? ",
+    "intent": "no_19"
+  },
+  {
+    "text": "Is there a demo video? ",
+    "intent": "no_20"
+  },
+  {
+    "text": "Can I recruit agents with helloAlex?   ",
+    "intent": "no_21"
+  },
+  {
+    "text": "I am a mortgage broker can I use helloAlex? ",
+    "intent": "no_22"
+  },
+  {
+    "text": "Does helloAlex offer co-marketing?",
+    "intent": "no_23"
+  },
+  {
+    "text": "Is there a Free plan?",
+    "intent": "no_24"
+  },
+  {
+    "text": "How do I use this coupon code? ",
+    "intent": "no_25"
+  },
+  {
+    "text": "Can I call you?",
+    "intent": "no_26"
+  },
+  {
+    "text": "Can I schedule a demo?",
+    "intent": "no_27"
+  },
+  {
+    "text": "How do I schedule a demo? ",
+    "intent": "no_28"
+  },
+  {
+    "text": "How do I signup?",
+    "intent": "no_29"
+  },
+  {
+    "text": "Does helloAlex offer Robotic Process Automation RPA?",
+    "intent": "no_30"
+  },
+  {
+    "text": "Does helloAlex offer Directmail or postcards?",
+    "intent": "no_31"
+  },
+  {
+    "text": "Does helloAlex offer list rental?",
+    "intent": "no_32"
+  },
+  {
+    "text": "Does helloAlex help me recruit real estate agents?",
+    "intent": "no_33"
+  },
+  {
+    "text": "Does it work with my system? ",
+    "intent": "no_34"
+  },
+  {
+    "text": "Does it work with Consulnet Computing Inc?",
+    "intent": "no_35"
+  },
+  {
+    "text": "Does it work with Profusion360",
+    "intent": "no_36"
+  },
+  {
+    "text": "Does it work with AccelerAgent (Property Minder)",
+    "intent": "no_37"
+  },
+  {
+    "text": "Does it work with Agent Desks",
+    "intent": "no_38"
+  },
+  {
+    "text": "Does it work with Agent Legend",
+    "intent": "no_39"
+  },
+  {
+    "text": "Does it work with Agent Sauce",
+    "intent": "no_40"
+  },
+  {
+    "text": "Does it work with AgentAchieve",
+    "intent": "no_41"
+  },
+  {
+    "text": "Does it work with Agentjet",
+    "intent": "no_42"
+  },
+  {
+    "text": "Does it work with AllClients",
+    "intent": "no_43"
+  },
+  {
+    "text": "Does it work with Big PurpleDot",
+    "intent": "no_44"
+  },
+  {
+    "text": "Does it work with BoomTown",
+    "intent": "no_45"
+  },
+  {
+    "text": "Does it work with Boston Logic",
+    "intent": "no_46"
+  },
+  {
+    "text": "Does it work with Brivity",
+    "intent": "no_47"
+  },
+  {
+    "text": "Does it work with Broker IDX sites, Inc",
+    "intent": "no_48"
+  },
+  {
+    "text": "Does it work with Chime",
+    "intent": "no_49"
+  },
+  {
+    "text": "Does it work with Cimmaron",
+    "intent": "no_50"
+  },
+  {
+    "text": "Does it work with Cloud CMA",
+    "intent": "no_51"
+  },
+  {
+    "text": "Does it work with Commissions Inc/CINC",
+    "intent": "no_52"
+  },
+  {
+    "text": "Does it work with Constant Contract",
+    "intent": "no_53"
+  },
+  {
+    "text": "Does it work with Contactually",
+    "intent": "no_54"
+  },
+  {
+    "text": "Does it work with Delta Media Group",
+    "intent": "no_55"
+  },
+  {
+    "text": "Does it work with Diverse Solutions Envoy",
+    "intent": "no_56"
+  },
+  {
+    "text": "Does it work with Elegran",
+    "intent": "no_57"
+  },
+  {
+    "text": "Does it work with First Option Online",
+    "intent": "no_58"
+  },
+  {
+    "text": "Does it work with Follow Up Boss",
+    "intent": "no_59"
+  },
+  {
+    "text": "Does it work with FUEL Lead System",
+    "intent": "no_60"
+  },
+  {
+    "text": "Does it work with Highgarden / EasyStreet",
+    "intent": "no_61"
+  },
+  {
+    "text": "Does it work with HomePath Lending",
+    "intent": "no_62"
+  },
+  {
+    "text": "Does it work with Homes.com",
+    "intent": "no_63"
+  },
+  {
+    "text": "Does it work with IDC Global",
+    "intent": "no_64"
+  },
+  {
+    "text": "Does it work with iHouseweb",
+    "intent": "no_65"
+  },
+  {
+    "text": "Does it work with iMaxCRM",
+    "intent": "no_66"
+  },
+  {
+    "text": "Does it work with Infusionsoft",
+    "intent": "no_67"
+  },
+  {
+    "text": "Does it work with Insightly",
+    "intent": "no_68"
+  },
+  {
+    "text": "Does it work with IXACT Contact",
+    "intent": "no_69"
+  },
+  {
+    "text": "Does it work with Keller Williams eEdge",
+    "intent": "no_70"
+  },
+  {
+    "text": "Does it work with Kunversion",
+    "intent": "no_71"
+  },
+  {
+    "text": "Does it work with LeadMailbox",
+    "intent": "no_72"
+  },
+  {
+    "text": "Does it work with LGF",
+    "intent": "no_73"
+  },
+  {
+    "text": "Does it work with LionDesk",
+    "intent": "no_74"
+  },
+  {
+    "text": "Does it work with LivWire Solution",
+    "intent": "no_75"
+  },
+  {
+    "text": "Does it work with LoomLogic",
+    "intent": "no_76"
+  },
+  {
+    "text": "Does it work with Mailchimp",
+    "intent": "no_77"
+  },
+  {
+    "text": "Does it work with Market Leader",
+    "intent": "no_78"
+  },
+  {
+    "text": "Does it work with Masterdigm CRM",
+    "intent": "no_79"
+  },
+  {
+    "text": "Does it work with One Cavo",
+    "intent": "no_80"
+  },
+  {
+    "text": "Does it work with Onjax",
+    "intent": "no_81"
+  },
+  {
+    "text": "Does it work with Perfect Storm",
+    "intent": "no_82"
+  },
+  {
+    "text": "Does it work with Placester",
+    "intent": "no_83"
+  },
+  {
+    "text": "Does it work with PlanetRE",
+    "intent": "no_84"
+  },
+  {
+    "text": "Does it work with PlanPlus Online",
+    "intent": "no_85"
+  },
+  {
+    "text": "Does it work with Positioning4Profits",
+    "intent": "no_86"
+  },
+  {
+    "text": "Does it work with PreApprovalLetter.com",
+    "intent": "no_87"
+  },
+  {
+    "text": "Does it work with ProAgentWebsites.com",
+    "intent": "no_88"
+  },
+  {
+    "text": "Does it work with Propertybase",
+    "intent": "no_89"
+  },
+  {
+    "text": "Does it work with PropertyPulse by Z57",
+    "intent": "no_90"
+  },
+  {
+    "text": "Does it work with Quantum Leads",
+    "intent": "no_91"
+  },
+  {
+    "text": "Does it work with RE/MAX LeadStreet (Reliance Network)",
+    "intent": "no_92"
+  },
+  {
+    "text": "Does it work with REAL",
+    "intent": "no_93"
+  },
+  {
+    "text": "Does it work with Real Estate Digital",
+    "intent": "no_94"
+  },
+  {
+    "text": "Does it work with Real Estate Webmasters",
+    "intent": "no_95"
+  },
+  {
+    "text": "Does it work with Real Geeks",
+    "intent": "no_96"
+  },
+  {
+    "text": "Does it work with RealScout",
+    "intent": "no_97"
+  },
+  {
+    "text": "Does it work with REALSTACK",
+    "intent": "no_98"
+  },
+  {
+    "text": "Does it work with REALTRON",
+    "intent": "no_99"
+  },
+  {
+    "text": "Does it work with Realty Commander",
+    "intent": "no_100"
+  },
+  {
+    "text": "Does it work with RealtyJuggler",
+    "intent": "no_101"
+  },
+  {
+    "text": "Does it work with ReferralGENIE",
+    "intent": "no_102"
+  },
+  {
+    "text": "Does it work with REfindly",
+    "intent": "no_103"
+  },
+  {
+    "text": "Does it work with Reliance Netkwork",
+    "intent": "no_104"
+  },
+  {
+    "text": "Does it work with REthink RES",
+    "intent": "no_105"
+  },
+  {
+    "text": "Does it work with Rocket Agents",
+    "intent": "no_106"
+  },
+  {
+    "text": "Does it work with Sales Prodigy",
+    "intent": "no_107"
+  },
+  {
+    "text": "Does it work with Salesforce",
+    "intent": "no_108"
+  },
+  {
+    "text": "Does it work with Seize the Market",
+    "intent": "no_109"
+  },
+  {
+    "text": "Does it work with Sellectrified",
+    "intent": "no_110"
+  },
+  {
+    "text": "Does it work with ShortTrack",
+    "intent": "no_111"
+  },
+  {
+    "text": "Does it work with ShoutBoss",
+    "intent": "no_112"
+  },
+  {
+    "text": "Does it work with Sierra Interactive",
+    "intent": "no_113"
+  },
+  {
+    "text": "Does it work with Slacker",
+    "intent": "no_114"
+  },
+  {
+    "text": "Does it work with Speed To Contact / Ricochet",
+    "intent": "no_115"
+  },
+  {
+    "text": "Does it work with SugarCRM",
+    "intent": "no_116"
+  },
+  {
+    "text": "Does it work with TeamLeads",
+    "intent": "no_117"
+  },
+  {
+    "text": "Does it work with TORCHx",
+    "intent": "no_118"
+  },
+  {
+    "text": "Does it work with Total Brokerage",
+    "intent": "no_119"
+  },
+  {
+    "text": "Does it work with Total Expert CRM",
+    "intent": "no_120"
+  },
+  {
+    "text": "Does it work with TRIBUS",
+    "intent": "no_121"
+  },
+  {
+    "text": "Does it work with Union Street Media",
+    "intent": "no_122"
+  },
+  {
+    "text": "Does it work with Wise Agent",
+    "intent": "no_123"
+  },
+  {
+    "text": "Does it work with Xcelerate CRM",
+    "intent": "no_124"
+  },
+  {
+    "text": "Does it work with Zap CRM by ZipRealty",
+    "intent": "no_125"
+  },
+  {
+    "text": "Does it work with Zapier",
+    "intent": "no_126"
+  },
+  {
+    "text": "Does it work with Zapier (Follow Up Boss)",
+    "intent": "no_127"
+  },
+  {
+    "text": "Does it work with Zoho",
+    "intent": "no_128"
+  },
+  {
+    "text": "Does it work with Zurple",
+    "intent": "no_129"
+  },
+  {
+    "text": "Does helloAlex work with my MLS? ",
+    "intent": "no_130"
+  }
+]
+
+  }
+}
